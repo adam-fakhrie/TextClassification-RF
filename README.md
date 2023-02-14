@@ -1,4 +1,4 @@
 # TextClassification-RF
 
 ## Annotation
-This repository only contain pre-processing and processing file
+This repository only contains pre-processing and processing files which build with python using jupyter notebook
